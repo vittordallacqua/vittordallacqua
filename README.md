@@ -1,7 +1,7 @@
 Olá, eu sou Vittor Dallacqua!
 
-- 📚 Finalizando meu Ensino Médio Técnico em Informática;
-- 🛡️ Estudando InfoSec e Segurança Digital;
+- 📚 Finalizando ensino médio técnico em informática;
+- 🛡️ Estudando InfoSec e segurança digital;
 - 🧠 Atualmente me especializando em Python e JavaScript;
 - 🤖 Desenvolvendo um projeto utilizando RFID e DB no Arduino.
 
