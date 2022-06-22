@@ -7,7 +7,7 @@ Olá, eu sou Vittor Dallacqua!
 
 <div align="left">
   <a href="https://github.com/vittordallacqua">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vvittordallacqua&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vittordallacqua&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittordallacqua&layout=compact&langs_count=16&theme=nord"/>
 </div>
   <div style="display: inline_block"><br>
