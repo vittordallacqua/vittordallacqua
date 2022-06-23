@@ -3,7 +3,7 @@ Hi, I'm Vittor!
 - 📚 Finishing my secondary technical education;
 - 🛡️ Studying InfoSec and Digital Security;
 - 🧠 Currently specializing in Python and JavaScript;
-- 🤖 Developing a project in Arduino using RFID and DB.
+- 🤖 Developing a project in Arduino using RFID and DB (The InoLock Project).
 
 <div align="left">
   <a href="https://github.com/vittordallacqua">
