@@ -5,7 +5,7 @@
 
 Olá, eu sou Vittor Dallacqua. Atualmente concluo meu Ensino Médio Técnico em Informática.
 
-Comecei minha vida na programação em 2020 e venho desenvolvendo projetos para adquirir habilidades em diversas linguagens desde então. Estou desenvolvendo um projeto utilizando o microcontrolador Arduino, você pode ler mais sobre ele clicando <a href="https://github.com/vittordallacqua/TheInoLockProject">aqui!</a>
+Comecei minha vida na programação em 2020 e venho desenvolvendo projetos para adquirir habilidades em diversas linguagens desde então. Estou desenvolvendo um projeto utilizando o microcontrolador Arduino, você pode ler mais sobre ele clicando <a href="https://github.com/vittordallacqua/TheInoLockProject">aqui</a>
  
 
 <div style="display: inline_block"><br>
