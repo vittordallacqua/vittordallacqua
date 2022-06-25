@@ -22,4 +22,5 @@ I started my life in programming in 2020 and I have been developing projects to 
 <div> 
   <a href="mailto:vittor23dallacqua@gmail.com"><img src="https://img.shields.io/badge/-vittor23dallacqua@gmail.com-f8efd4?style=for-the-badge&logo=Gmail&logoColor=black&link=mailto:vittor23dallacqua@gmail.com"></a>
   <a href="https://www.linkedin.com/in/vittor-dallacqua/" target="_blank"><img src="https://img.shields.io/badge/-Vittor%20Dallacqua-f8efd4?style=for-the-badge&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/vittor-dallacqua/"</a> 
-  <a href = "https://twitter.com/haterdefrio"><img src="https://img.shields.io/badge/Vittor Dallacqua-f8efd4?style=for-the-badge&logo=twitter&logoColor=black" target="_blank"></a>
+  <a href = "https://twitter.com/haterdefrio"><img src="https://img.shields.io/badge/haterdefrio-f8efd4?style=for-the-badge&logo=twitter&logoColor=black" target="_blank"></a>
+  <a href = "https://instagram.com/hlyshtdallas"><img src="https://img.shields.io/badge/hlyshtdallas-f8efd4?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
