@@ -1,8 +1,4 @@
 ## Hello World!
-
-- 📚 Concluindo o Ensino Médio Téenico em Informática;
-- 🤖 Estou desenvolvendo um projeto no Arduino, o The InoLock Project. Saiba mais clicando <a href="https://github.com/vittordallacqua/TheInoLockProject">aqui!</a> 
-
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vittordallacqua&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
