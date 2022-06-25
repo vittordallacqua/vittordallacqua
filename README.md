@@ -1,9 +1,8 @@
 ## Hello World!
-<div align="center">
   <a href="https://github.com/vittordallacqua">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=vittordallacqua&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittordallacqua&layout=compact&langs_count=7&theme=nord"/>
-</div>
+  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=vittordallacqua&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittordallacqua&layout=compact&langs_count=7&theme=nord"/>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Vittor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vittor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
