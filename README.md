@@ -1,11 +1,6 @@
-Hi, I'm Vittor!
+## Hello World!
 
-- 📚 Finishing my secondary technical education;
-- 🛡️ Studying InfoSec and Digital Security;
-- 🧠 Currently specializing in Python and JavaScript;
-- 🤖 Developing a project in Arduino using RFID and DB (The InoLock Project).
-
-<div align="left">
+<div align="center">
   <a href="https://github.com/vittordallacqua">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vittordallacqua&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittordallacqua&layout=compact&langs_count=16&theme=nord"/>
