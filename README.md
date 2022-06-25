@@ -1,7 +1,7 @@
 ## Hello World!
   <a href="https://github.com/vittordallacqua">
-  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=vittordallacqua&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittordallacqua&layout=compact&langs_count=7&theme=nord"/>
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=vittordallacqua&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittordallacqua&layout=compact&langs_count=7&theme=nord"/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vittor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -10,7 +10,7 @@
   <img align="center" alt="Vittor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vittor-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 
-  <img align="right" alt="Vittor-pic" height="200" style="border-radius: 60px;" src="https://media.discordapp.net/attachments/750417955027812485/990060248314302494/download20220605220515.png">
+  <img align="right" alt="Vittor-pic" height="200" style="border-radius: 60px" src="https://media.discordapp.net/attachments/750417955027812485/990060248314302494/download20220605220515.png">
 </div>
   
   ##
