@@ -10,7 +10,7 @@
   <img align="center" alt="Vittor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vittor-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 
-  <img align="right" alt="Vittor-pic" height="200" style="border-radius: 60px" src="https://media.discordapp.net/attachments/750417955027812485/990060248314302494/download20220605220515.png">
+  <img align="right" alt="Vittor-pic"  width="250" src="https://cdn.discordapp.com/attachments/756251939863527599/990068505581875200/picrew_github.png">
 </div>
   
   ##
