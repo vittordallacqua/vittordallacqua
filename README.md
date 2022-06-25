@@ -21,4 +21,7 @@ Comecei minha vida na programação em 2020 e venho desenvolvendo projetos para 
  
 <div> 
   <a href = "mailto:vittor23dallacqua@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://www.reddit.com/user/DesmondDots"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vittor-dallacqua-a33524243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+
