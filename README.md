@@ -1,8 +1,12 @@
 ## Hello World!
-  <a href="https://github.com/vittordallacqua">
-  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittordallacqua&layout=compact&langs_count=7&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300"/>
-    <img align="center" alt="Vittor-pic"  width="175" src="picrew github.png">
 
+<a href="https://github.com/vittordallacqua">
+  <img align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittordallacqua&layout=compact&langs_count=7&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300"/></a>
+
+Olá, sou o Vittor Dallacqua. Atualmente concluo meu Ensino Médio Técnico em Informática.
+
+Comecei minha vida na programação em 2020 e venho desenvolvendo projetos para adquirir habilidades em diversas linguagens desde então. Estou desenvolvendo um projeto utilizando o microcontrolador Arduino, você pode ler mais sobre ele clicando <a href="https://github.com/vittordallacqua/TheInoLockProject">aqui!</a>
+ 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vittor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
