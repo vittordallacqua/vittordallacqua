@@ -3,9 +3,9 @@
 <a href="https://github.com/vittordallacqua">
   <img align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittordallacqua&layout=compact&langs_count=7&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300"/></a>
 
-Olá, eu sou Vittor Dallacqua. Atualmente concluo meu Ensino Médio Técnico em Informática.
+Currently completing my technical high school in computer science.
 
-Comecei minha vida na programação em 2020 e venho desenvolvendo projetos para adquirir habilidades em diversas linguagens desde então. Estou desenvolvendo um projeto utilizando o microcontrolador Arduino, você pode ler mais sobre ele clicando <a href="https://github.com/vittordallacqua/TheInoLockProject">aqui.</a>
+I started my life in programming in 2020 and I have been developing projects to acquire skills in different languages since then. I'm developing a project using the Arduino microcontroller, you can read more about it by clicking <a href="https://github.com/vittordallacqua/TheInoLockProject">here.</a>
  
 
 <div style="display: inline_block"><br>
@@ -20,8 +20,6 @@ Comecei minha vida na programação em 2020 e venho desenvolvendo projetos para 
   ##
  
 <div> 
-  <a href = "mailto:vittor23dallacqua@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://www.reddit.com/user/DesmondDots"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vittor-dallacqua-a33524243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-
+  <a href="mailto:vittor23dallacqua@gmail.com"><img src="https://img.shields.io/badge/-vittor23dallacqua@gmail.com-f8efd4?style=for-the-badge&logo=Gmail&logoColor=black&link=mailto:vittor23dallacqua@gmail.com"></a>
+  <a href="https://www.linkedin.com/in/vittor-dallacqua/" target="_blank"><img src="https://img.shields.io/badge/-Vittor%20Dallacqua-f8efd4?style=for-the-badge&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/vittor-dallacqua/"</a> 
+  <a href = "https://twitter.com/haterdefrio"><img src="https://img.shields.io/badge/Vittor Dallacqua-f8efd4?style=for-the-badge&logo=twitter&logoColor=black" target="_blank"></a>
