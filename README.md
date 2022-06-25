@@ -9,6 +9,7 @@
   <img align="center" alt="Vittor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Vittor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vittor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Vittor-pic" height="200" style="border-radius: 60px;" src="https://media.discordapp.net/attachments/750417955027812485/990060248314302494/download20220605220515.png">
 </div>
   
   ##
