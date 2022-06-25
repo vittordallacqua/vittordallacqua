@@ -8,7 +8,7 @@ Currently completing my technical high school in computer science.
 I started my life in programming in 2020 and I have been developing projects to acquire skills in different languages since then. I'm developing a project using the Arduino microcontroller, you can read more about it by clicking <a href="https://github.com/vittordallacqua/TheInoLockProject">here.</a>
 
 <div> 
-  <a href="mailto:vittor23dallacqua@gmail.com"><img src="https://img.shields.io/badge/-vittor.dallacqua.l@gmail.com-f8efd4?style=square&logo=Gmail&logoColor=black&link=mailto:vittor23dallacqua@gmail.com"></a>
+  <a href="mailto:vittor23dallacqua@gmail.com"><img src="https://img.shields.io/badge/-vittor23dallacqua@gmail.com-f8efd4?style=square&logo=Gmail&logoColor=black&link=mailto:vittor23dallacqua@gmail.com"></a>
   <a href="https://www.linkedin.com/in/vittor-dallacqua/"><img src="https://img.shields.io/badge/-Vittor%20Dallacqua-f8efd4?style=square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/vittor-dallacqua/"</a> 
   <a href="https://twitter.com/haterdefrio"><img src="https://img.shields.io/badge/haterdefrio-f8efd4?style=square&logo=twitter&logoColor=black"></a>
   <a href="https://instagram.com/hlyshtdallas"><img src="https://img.shields.io/badge/hlyshtdallas-f8efd4?style=square&logo=instagram&logoColor=black"></a>
