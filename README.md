@@ -12,7 +12,7 @@ I started my life in programming in 2020 and I have been developing projects to 
   <a href="https://www.linkedin.com/in/vittor-dallacqua/"><img src="https://img.shields.io/badge/-Vittor%20Dallacqua-f8efd4?style=square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/vittor-dallacqua/"</a> 
   <a href="https://twitter.com/haterdefrio"><img src="https://img.shields.io/badge/haterdefrio-f8efd4?style=square&logo=twitter&logoColor=black"></a>
   <a href="https://instagram.com/hlyshtdallas"><img src="https://img.shields.io/badge/hlyshtdallas-f8efd4?style=square&logo=instagram&logoColor=black"></a>
-  <a href="https://open.spotify.com/user/vittor.marx"><img src="https://img.shields.io/badge/dallas-f8efd4?style=square&logo=spotify&logoColor=black"></a>
+  <a href="https://open.spotify.com/user/vittor.marx"><img src="https://img.shields.io/badge/dallacqua-f8efd4?style=square&logo=spotify&logoColor=black"></a>
 
 </div>
 
