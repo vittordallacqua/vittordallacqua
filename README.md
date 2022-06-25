@@ -1,4 +1,4 @@
-## Hello World!
+## Hello World! ☕
 
 <a href="https://github.com/vittordallacqua">
   <img align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittordallacqua&layout=compact&langs_count=7&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300"/></a>
