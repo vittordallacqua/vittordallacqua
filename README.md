@@ -1,6 +1,6 @@
   ## Hello World! ☕
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="250" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="300" align="right" alt="Computador iuriCode">
 
 Currently completing my technical high school in computer science.
 
@@ -17,6 +17,6 @@ I started my life in programming in 2020 and I have been developing projects to 
   
   ##
   
-<img align="center" height="160px" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-<img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=omni"/>
+<img align="left" height="180px" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+<img align="left" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=omni"/>
 
