@@ -14,4 +14,9 @@ I started my life in programming in 2020 and I have been developing projects to 
   <a href="https://instagram.com/hlyshtdallas"><img src="https://img.shields.io/badge/@hlyshtdallas-6633cc?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://open.spotify.com/user/vittor.marx"><img src="https://img.shields.io/badge/dallacqua-6633cc?style=for-the-badge&logo=spotify&logoColor=white"></a>
 </div>
+  
+  ##
+  
+<img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+<img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=omni"/>
 
