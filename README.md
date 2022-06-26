@@ -14,7 +14,7 @@ I started my life in programming in 2020 and I have been developing projects to 
   <a href="https://instagram.com/hlyshtdallas"><img src="https://img.shields.io/badge/@hlyshtdallas-291b3e?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
   
-  ##
+  ## <br>   
   
 <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=vittordallacqua&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
 <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittordallacqua&layout=compact&langs_count=7&theme=jolly"/>
