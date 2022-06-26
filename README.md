@@ -1,4 +1,4 @@
-  ## Hello World! ☕
+  ## Hello World!
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="300" align="right" alt="Computador iuriCode">
 
