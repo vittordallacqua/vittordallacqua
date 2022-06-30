@@ -17,7 +17,7 @@ I started my life in programming in 2020 and I have been developing projects to 
   
   ## <br> 
   
-<img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=vittordallacqua&show_icons=true&text_color=black&bg_color=82ffc1&include_all_commits=true&count_private=true"/>
-<img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittordallacqua&layout=compact&langs_count=7&bg_color=82ffc1"/>
+<img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=dallacquadev&show_icons=true&text_color=black&bg_color=82ffc1&include_all_commits=true&count_private=true"/>
+<img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dallacquadev&layout=compact&langs_count=7&bg_color=82ffc1"/>
 
 
