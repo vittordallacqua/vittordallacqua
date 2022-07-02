@@ -1,3 +1,3 @@
-## Purple -> #6603c6 🟣
+## Purple → #6603c6 🟣
 
-## Green -> #82ffc1 🟢
+## Green → #82ffc1 🟢
