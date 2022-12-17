@@ -3,7 +3,7 @@
 <img src="img/computer-illustration.png" min-width="400px" max-width="400px" width="350" align="right" alt="Computador iuriCode">
 
 • Computer Technician <br>
-• High school graduate
+• High school graduate <br> 
 
   #### Social Media:
 
