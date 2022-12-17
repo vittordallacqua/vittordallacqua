@@ -11,7 +11,7 @@ I started my life in programming in 2020 and I have been developing projects to 
 <div> 
   <a href="https://www.linkedin.com/in/vittor-dallacqua/"><img src="https://img.shields.io/badge/-Vittor%20Dallacqua-291B3E?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vittor-dallacqua/"</a> 
   <a href="https://twitter.com/daIIacqua"><img src="https://img.shields.io/badge/@dallacqua-291B3E?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://instagram.com/vitttttttttttttor"><img src="https://img.shields.io/badge/@chemstrysucks-291B3E?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://instagram.com/vitttttttttttttor"><img src="https://img.shields.io/badge/@vitttttttttttttor-291B3E?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://open.spotify.com/user/vittor.marx"><img src="https://img.shields.io/badge/dallacqua-291B3E?style=for-the-badge&logo=spotify&logoColor=white"></a>
 </div>
   
