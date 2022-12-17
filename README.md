@@ -1,6 +1,6 @@
   ## Hello, World!
 
-<img src="img/computer-illustration.png" min-width="400px" max-width="400px" width="350" align="right" alt="Computador iuriCode">
+<img src="img/computer-illustration.png" min-width="400px" max-width="400px" width="320" align="right" alt="Computador iuriCode">
 
 • Computer Technician <br>
 • High school graduate <br> 
