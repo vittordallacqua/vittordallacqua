@@ -1,10 +1,9 @@
-  ## Hello World!
+  ## Hello, World!
 
 <img src="img/computer-illustration.png" min-width="400px" max-width="400px" width="350" align="right" alt="Computador iuriCode">
 
-Currently completing my technical high school in computer science.
-
-I started my life in programming in 2020 and I have been developing projects to acquire skills in different languages since then. I'm developing a project using the Arduino microcontroller, you can read more about it by clicking <a href="https://github.com/vittordallacqua/TheInoLockProject">here.</a>
+• Computer Technician <br>
+• High school graduate
 
   #### Social Media:
 
