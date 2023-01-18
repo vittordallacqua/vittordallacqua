@@ -1,11 +1,11 @@
-### Hi there! 👋
+## Hi there! 👋
 
 • **Computer Technician** (2020 - 2022) <br>
 • **Computer System Analysis** (2023 - in progress)
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
+## About me
 
-<img align="right" width="307px" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
+<img align="right" width="305px" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
 
 ```kotlin
 object **Dev** {
