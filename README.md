@@ -1,20 +1,29 @@
-  ## Hello, World!
+### Hi there! 👋
 
-• Computer Technician <br>
-• High school graduate <br> 
+<b> Computer Technician </b> currently studying <b> Computer System Analysis </b>
 
-  #### Social Media:
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
 
-<div> 
-  <a href="https://www.linkedin.com/in/vittor-dallacqua/"><img src="https://img.shields.io/badge/-Vittor%20Dallacqua-291B3E?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vittor-dallacqua/"</a> 
-  <a href="https://twitter.com/daIIacqua"><img src="https://img.shields.io/badge/@dallacqua-291B3E?style=for-the-badge&logo=twitter&logoColor=white"></a> <br>
-  <a href="https://instagram.com/vitttttttttttttor"><img src="https://img.shields.io/badge/@vitttttttttttttor-291B3E?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://open.spotify.com/user/vittor.marx"><img src="https://img.shields.io/badge/dallacqua-291B3E?style=for-the-badge&logo=spotify&logoColor=white"></a>
-</div>
-  
-  ## <br> 
-  
-<img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=vittordallacqua&show_icons=true&text_color=white&theme=jolly&include_all_commits=true&count_private=true"/>
-<img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittordallacqua&layout=compact&langs_count=7&theme=jolly"/>
+<img align="right" width="340" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
+```kotlin
+object **Dev** {
+ val name = "VITTOR DALLACQUA"
+ val acknowledgements = "WEB DEVEOPER"
+ 
+ val primarySkillset = "PRIMARY SKILLS"
+ val languages = listOf("JavaScript", "ReactJS", "Python") 
 
+}
+```
+
+## **Linguagens e Ferramentas:**  
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
