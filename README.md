@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
-• ***Computer Technician*** <br>
-• Studying ***Computer System Analysis***
+• **Computer Technician** (2020 - 2022) <br>
+• **Computer System Analysis** (2023 - in progress)
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
 
