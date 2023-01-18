@@ -4,7 +4,7 @@
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
 
-<img align="right" width="250" src="https://media.tenor.com/8ZpbRdXPnd4AAAAM/programming-crazy.gif" />
+<img align="right" width="300" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
 
 ```kotlin
 object **Dev** {
