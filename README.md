@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-<b> Computer Technician </b> currently studying <b> Computer System Analysis </b>
+*Computer Technician* currently studying *Computer System Analysis*
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
 
