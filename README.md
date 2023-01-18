@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
-• *Computer Technician* <br>
-• Studying *Computer System Analysis*
+• ***Computer Technician*** <br>
+• Studying ***Computer System Analysis***
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
 
