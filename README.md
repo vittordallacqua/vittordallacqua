@@ -21,7 +21,7 @@ object **Dev** {
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,python,cpp,git,mysql,linux)](https://skillicons.dev)
 
-## **Netwroks:**  
+## **Networks:**  
 
 [![My Networks](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vittordallacqua/)
 [![My Networks](https://skillicons.dev/icons?i=twitter)](https://www.twitter.com/daIIacqua)
