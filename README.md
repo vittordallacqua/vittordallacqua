@@ -19,6 +19,10 @@ object **Dev** {
 
 ## **Languages and Softwares:**  
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,html,css,python,git,vscode,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,python,cpp,git,mysql,linux)](https://skillicons.dev)
 
+## **Netwroks:**  
 
+[![My Networks](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vittordallacqua/)
+[![My Networks](https://skillicons.dev/icons?i=twitter)](https://www.twitter.com/daIIacqua)
+[![My Networks](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/dxllxs0)
