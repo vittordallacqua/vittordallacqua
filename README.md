@@ -1,7 +1,7 @@
 ## Hi there! 👋
 
 • **Computer Technician** (2020 - 2022) <br>
-• **Computer System Analysis** (2023 - in progress)
+• **Computer Systems Analysis** (2023 - in progress)
 
 ## About me
 
