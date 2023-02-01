@@ -25,5 +25,4 @@ object **Dev** {
 ## **Networks:**  
 
 [![My Networks](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vittordallacqua/)
-[![My Networks](https://skillicons.dev/icons?i=twitter)](https://www.twitter.com/daIIacqua)
-[![My Networks](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/dxllxs0)
+[![My Networks](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/dallacqua.ig)
