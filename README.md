@@ -1,9 +1,9 @@
-## Hi there! 👋
+## Hello, World! 👋
 
-• **Computer Technician** (2020 - 2022) <br>
-• **Computer Systems Analysis** (2023 - in progress)
+• **Técnico em Informática** (Fev 2020 - Dez 2022) <br>
+• **Análise e Desenvolvimento de Sistemas** (Em andamento)
 
-## About me
+## Sobre:
 
 <img align="right" width="305px" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
 
@@ -18,11 +18,11 @@ object **Dev** {
 }
 ```
 
-## **Languages and Softwares:**  
+## **Linguagens e Softwares:**  
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,python,cpp,git,mysql,linux)](https://skillicons.dev)
 
-## **Networks:**  
+## **Redes Sociais:**  
 
 [![My Networks](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vittordallacqua/)
 [![My Networks](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/dallacqua.ig)
