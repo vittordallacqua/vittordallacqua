@@ -13,7 +13,7 @@ object **Dev** {
  val acknowledgements = "WEB DEVEOPMENT"
  
  val occupation = "WEB DEVELOPER"
- val primarySkills = listOf("JavaScript", "ReactJS", "Python") 
+ val primarySkills = listOf("JavaScript", "React.js", "Python") 
 
 }
 ```
