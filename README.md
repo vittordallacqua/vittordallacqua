@@ -21,8 +21,3 @@ object **Dev** {
 ## **Languages and Softwares:**  
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,python,cpp,git,mysql,linux)](https://skillicons.dev)
-
-## **Social Networks:**  
-
-[![My Networks](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vittordallacqua/)
-[![My Networks](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/dallacqua.ig)
