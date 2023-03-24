@@ -1,6 +1,6 @@
 ## Hello, World! 👋
 
-• **Computer Technician** (2020 - 2022 <br>
+• **Computer Technician** (2020 - 2022) <br>
 • **Systems Analysis and Development** (2023 - 2025)
 
 ## About:
@@ -17,7 +17,6 @@ object **Dev** {
 
 }
 ```
-
 ## **Languages and Softwares:**  
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,python,cpp,git,mysql,linux)](https://skillicons.dev)
