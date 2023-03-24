@@ -1,7 +1,7 @@
 ## Hello, World! 👋
 
-• **Computer Technician** (Feb 2020 - Dec 2022) <br>
-• **Systems Development and Analysis** (In progress)
+• **Computer Technician** (2020 - 2022 <br>
+• **Systems Analysis and Development** (2023 - 2025)
 
 ## About:
 
