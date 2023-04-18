@@ -1,7 +1,7 @@
-## Hello, World! 👋
+## Hey there! 👋
 
-• **Computer Technician** (2020 - 2022) <br>
-• **Systems Analysis and Development** (2023 - 2025)
+• **Technical High School, Technician** (2020 - 2022) <br>
+• **Bachelor of Technology, Systems Analysis & Desing** (2023 - 2025)
 
 ## About:
 
