@@ -1,7 +1,7 @@
 ## Hey there! 👋
 
 • **Technical High School, Informatics** (2020 - 2022) <br>
-• **Bachelor of Technology, Systems Analysis & Desing** (2023 - 2025)
+• **Bachelor of Technology, Systems Analysis & Development** (2023 - 2025)
 
 ## About:
 
