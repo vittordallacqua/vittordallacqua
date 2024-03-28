@@ -1,22 +1,24 @@
-## Hey there! 👋
+### Hey there! 👋
 
-• **Technical High School, Informatics** (2020 - 2022) <br>
-• **Bachelor of Science, Computer Science** (2023 - 2027)
+My name is Vittor and I'm a Computer Science student from Brazil. Here's some info about me!
 
-## About:
+#### ⚡ Work experience:
 
-<img align="right" width="305px" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
+  • Manufacturing technician at Methal Company (return offer in 3 months) (Apr-2023 - Present)
 
-```kotlin
-object **Dev** {
- val name = "VITTOR DALLACQUA"
- val acknowledgements = "SOFTWARE DEVELOPMENT"
- 
- val occupation = "JR. SOFTWARE DEVELOPER"
- val primarySkills = listOf("JavaScript", "React.js", "Python") 
+#### 📚 Education:
 
-}
-```
-## **Languages and Softwares:**  
+  • **Bachelor of Science, Computer Science** (2023 - 2027) <br>
+  • **Technical High School, Informatics** (2020 - 2022)
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,python,cpp,git,mysql,linux)](https://skillicons.dev)
+#### 🌱 Interests:
+
+  • Web development. <br>
+  • Music.
+
+#### 📞 Contact:
+
+💬 Reach me by email or LinkedIn! vittor23dallacqua@gmail.com | www.linkedin.com/in/vdallacqua <br>
+📫 Visit my website that is severely outdated: https://vittordallacqua.github.io/me/
+
+
