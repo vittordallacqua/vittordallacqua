@@ -4,4 +4,4 @@ Computer Science undergrad based in Curitiba (Brazil)
 
 #### ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXQ5c2M2ajJjbHlhNjFxZmp0NmNtMGV1Ymd1cXczZmI1ZWkyN2RqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.webp)  
 
-![snake animation](https://github.com/vittordallacqua/vittordallacqua/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://github.com/vittordallacqua/vittordallacqua/blob/output/github-contribution-grid-snake.gif)
