@@ -1,4 +1,4 @@
-Computer Science undergrad based in Curitiba (Brazil)
+Computer Science undergraduate based in Curitiba (Brazil)
 
 #### [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,sass,js,react,php,nodejs,mysql)](https://skillicons.dev)
 
