@@ -1,4 +1,4 @@
-# Hi there! 👋
+## Hi there! 👋
 
 I'm a developer skilled in software, data analysis, and impactful problem-solving, driving results through creative solutions. 
 
