@@ -1,8 +1,6 @@
-## 
+# Hi there! 👋
 
-## Computer Science undergraduate based in Brazil
-
-Hey there! Let's Connect :)))
+I'm a developer skilled in software, data analysis, and impactful problem-solving, driving results through creative solutions. 
 
 ## Main technologies
 <div style="display: inline_block">
