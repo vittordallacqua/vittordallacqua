@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm a developer skilled in software, data analysis, and impactful problem-solving, driving results through creative solutions. 
+Currently studying Computer Science at Universidade Positivo, with a completed Technical degree in Information Technology at PUCPR (2022).
 
 ## Main technologies
 <div style="display: inline_block">
