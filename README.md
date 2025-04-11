@@ -14,7 +14,7 @@ Currently studying Computer Science at Universidade Positivo, with a completed T
   <img src="https://skillicons.dev/icons?i=linux,bash,arduino,git,github,photoshop">
 </div>
 
-## Contact me!
+## Contact me
 
 <div> 
   <a href="https://www.linkedin.com/in/vdallacqua/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a>
