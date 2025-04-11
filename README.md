@@ -1,4 +1,4 @@
-<img src="https://i.gifer.com/origin/4a/4a680d35606f8fd5fd17898b53650db2_w200.gif" width="9000" height="100">
+<img src="https://i.pinimg.com/originals/ec/8d/da/ec8dda885688ef35203135cc247e2259.gif" width="9000" height="100">
 
 ## Hi there! 👋
 
@@ -22,4 +22,4 @@ Currently studying Computer Science at Universidade Positivo, with a completed T
   <a href="https://instagram.com/kojimawhore" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"></a>
 </div> <br>
 
-<img src="https://i.gifer.com/origin/4a/4a680d35606f8fd5fd17898b53650db2_w200.gif" width="9000" height="100">
+<img src="https://i.pinimg.com/originals/ec/8d/da/ec8dda885688ef35203135cc247e2259.gif" width="9000" height="100">
