@@ -4,7 +4,7 @@ Currently studying Computer Science at Universidade Positivo, with a completed T
 
 ## Main technologies
 <div style="display: inline_block">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,java,python,postgresql">
+  <img src="https://skillicons.dev/icons?i=c,javascript,react,java,python,postgresql">
 </div>
 
 ## Other knowledge
