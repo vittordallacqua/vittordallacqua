@@ -6,7 +6,7 @@ Hey there! Let's connect!!!
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,mysql,postgresql,">
 </div>
 
-  ##
+##
 
 <div> 
   <a href="https://www.linkedin.com/in/vdallacqua" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
@@ -14,3 +14,7 @@ Hey there! Let's connect!!!
   <a href="https://instagram.com/kojimawhore" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 </div>
+
+## 
+
+<img src="https://i.gifer.com/Cad.gif" width="9999" height="100">
