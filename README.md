@@ -20,4 +20,4 @@ Currently studying Computer Science at Universidade Positivo, with a completed T
   <a href="https://instagram.com/kojimawhore" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"></a>
 </div> <br>
 
-<img src="https://i.pinimg.com/originals/ec/8d/da/ec8dda885688ef35203135cc247e2259.gif" width="9000" height="100">
+<img src="https://i.pinimg.com/originals/6f/5f/f3/6f5ff36fd8ffefa40bf466df6c693ef1.gif" width="9000" height="100">
