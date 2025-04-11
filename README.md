@@ -1,7 +1,3 @@
-## Hi there! 👋
-
-Currently studying Computer Science at Universidade Positivo, with a completed Technical degree in Information Technology at PUCPR.
-
 ## Main technologies
 <div style="display: inline_block">
   <img src="https://skillicons.dev/icons?i=c,javascript,react,java,python,postgresql">
