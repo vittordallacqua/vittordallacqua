@@ -9,7 +9,7 @@ Currently studying Computer Science at Universidade Positivo, with a completed T
 
 ## Other knowledge
 <div style="display: inline_block">
-  <img src="https://skillicons.dev/icons?i=linux,bash,arduino,git,github,photoshop">
+  <img src="https://skillicons.dev/icons?i=arduino,photoshop,git,github,linux,bash">
 </div>
 
 ## Contact me
