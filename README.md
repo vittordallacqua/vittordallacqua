@@ -7,7 +7,7 @@
 Hey there! Let's connect!!!
 
 <div style="display: inline_block">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,mysql,postgresql,">
+  <img src="https://skillicons.dev/icons?i=c,cpp,javascript,react,nodejs,java,python,mysql,postgresql">
 </div>
 
 ##
