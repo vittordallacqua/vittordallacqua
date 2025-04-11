@@ -1,8 +1,8 @@
 ## Computer Science undergraduate at Universidade Positivo
 
 <div style="display: inline_block"><br>
-  a href="https://skillicons.dev">
-    <img height="30" width="40" src="skillicons.dev/icons?i=c,cpp,js,react,nodejs,java,python,postgresql,mysql" />
+  <a href="https://skillicons.dev">
+    <img align="center" height="30" width="40" src="skillicons.dev/icons?i=c,cpp,js,react,nodejs,java,python,postgresql,mysql">
   </a>
 </div>
   
