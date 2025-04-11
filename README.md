@@ -1,3 +1,5 @@
+<img src="https://i.gifer.com/origin/4a/4a680d35606f8fd5fd17898b53650db2_w200.gif" width="9000" height="100">
+
 ## Hi there! 👋
 
 Currently studying Computer Science at Universidade Positivo, with a completed Technical degree in Information Technology at PUCPR.
