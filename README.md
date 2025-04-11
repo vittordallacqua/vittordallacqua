@@ -1,3 +1,7 @@
+## 
+
+<img src="https://i.gifer.com/origin/91/9159b2f608c6685c6b3e0d20cfe388fb_w200.gif" width="9999" height="100">
+
 ## Computer Science undergraduate based in Brazil
 
 Hey there! Let's connect!!!
