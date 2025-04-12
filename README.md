@@ -2,6 +2,14 @@
 
 <img src="https://raw.githubusercontent.com/sebasrp/sebasrp/master/cyberpunk.pixelart.Akito_One.gif">
 
+## Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vittordallacqua&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vittordallacqua&layout=compact&langs_count=8&card_width=270&theme=radical" />
+</a>
+
 ## Main technologies
 <div style="display: inline_block">
   <img src="https://skillicons.dev/icons?i=c,javascript,java,python,postgresql">
@@ -20,10 +28,3 @@
   <a href="https://instagram.com/kojimawhore" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"></a>
 </div>
 
-## Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vittordallacqua&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vittordallacqua&layout=compact&langs_count=8&card_width=270&theme=radical" />
-</a>
