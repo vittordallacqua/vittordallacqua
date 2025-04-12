@@ -1,11 +1,11 @@
 ## Main technologies
 <div style="display: inline_block">
-  <img src="https://skillicons.dev/icons?i=c,javascript,react,java,python,postgresql">
+  <img src="https://skillicons.dev/icons?i=c,javascript,java,python,postgresql">
 </div>
 
 ## Other knowledge
 <div style="display: inline_block">
-  <img src="https://skillicons.dev/icons?i=arduino,photoshop,git,github,linux,bash">
+  <img src="https://skillicons.dev/icons?i=photoshop,git,linux,bash">
 </div>
 
 ## Contact me
