@@ -1,6 +1,4 @@
-## ☕ About me
-
-Hi, I'm Vittor! Feel free to follow me!! :)) 
+## ☕ Hi, I'm Vittor! Feel free to follow me :))
 
 ## 📊 GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
