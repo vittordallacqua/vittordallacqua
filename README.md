@@ -23,8 +23,3 @@
   <a href="mailto:vittor23dallacqua@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a> 
   <a href="https://instagram.com/kojimawhore" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"></a>
 </div>
-
-## 
-
-<img src="https://raw.githubusercontent.com/sebasrp/sebasrp/master/cyberpunk.pixelart.Akito_One.gif">
-
