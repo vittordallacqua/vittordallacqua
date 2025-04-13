@@ -1,8 +1,4 @@
 ## Hi there! 👋
-
-<img src="https://raw.githubusercontent.com/sebasrp/sebasrp/master/cyberpunk.pixelart.Akito_One.gif">
-
-## Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vittordallacqua&show_icons=true&theme=radical" />
 </a>
@@ -27,4 +23,8 @@
   <a href="mailto:vittor23dallacqua@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a> 
   <a href="https://instagram.com/kojimawhore" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"></a>
 </div>
+
+## 
+
+<img src="https://raw.githubusercontent.com/sebasrp/sebasrp/master/cyberpunk.pixelart.Akito_One.gif">
 
