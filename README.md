@@ -36,3 +36,9 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vittordallacqua/vittordallacqua/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vittordallacqua/vittordallacqua/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vittordallacqua/vittordallacqua/output/github-snake.svg" />
+</picture>
