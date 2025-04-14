@@ -1,4 +1,6 @@
-## Welcome to my profile, feel free to contact me!
+<div style="display: inline_block" align="center"> 
+  <h1>Welcome to my profile, feel free to contact me!</h1>
+</div>
 
 <div style="display: inline_block" align="center"> 
   <a href="https://linkedin.com/in/vdallacqua" target="_blank"> <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg"/> </a> &nbsp
@@ -7,8 +9,10 @@
   <a href="https://open.spotify.com/user/vittor.marx" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/spotify.svg"/></a>
 </div>
 
+<div style="display: inline_block" align="center"> 
+  <h2>GitHub Stats</h2>
+</div> <br>
 
-## GitHub Stats
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vittordallacqua&show_icons=true&theme=github_dark"/>
@@ -18,7 +22,10 @@
   </a>
 </div>
 
-## Tech Stack
+<div style="display: inline_block" align="center"> 
+  <h2>Tech Stack</h2>
+</div> <br>
+
 <div style="display: inline_block" align="center"> 
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -37,7 +44,6 @@
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>  
 </div>
 
-##
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vittordallacqua/vittordallacqua/output/github-snake-dark.svg" />
