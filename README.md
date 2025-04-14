@@ -7,11 +7,11 @@
 </div>
 
 <div style="display: inline_block" align="center">   
-  <a href="http://vittordallacqua.github.io/me" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-333?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/vdallacqua" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-333?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/kojimawhore" target="_blank"><img src="https://img.shields.io/badge/Instagram-333?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://x.com/kojimawhore" target="_blank"><img src="https://img.shields.io/badge/X-333?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://open.spotify.com/user/vittor.marx" target="_blank"><img src="https://img.shields.io/badge/Spotify-333?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
+  <a href="http://vittordallacqua.github.io/me" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-%23483699?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/vdallacqua" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/kojimawhore" target="_blank"><img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://x.com/kojimawhore" target="_blank"><img src="https://img.shields.io/badge/X-14171A?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://open.spotify.com/user/vittor.marx" target="_blank"><img src="https://img.shields.io/badge/Spotify-1DB954?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
 </div>
 
 <div style="display: inline_block" align="center"> 
