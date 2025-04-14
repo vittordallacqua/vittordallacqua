@@ -2,10 +2,10 @@
 
 <div style="display: inline_block"> 
   <p>Feel free to contact me:</p>
-  <a href="https://linkedin.com/in/vdallacqua" target="_blank"> <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg"/> </a> &nbsp
-  <a href="https://instagram.com/kojimawhore" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg"/></a> &nbsp
-  <a href="https://x.com/kojimawhore" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter.svg"/></a> &nbsp
-  <a href="https://open.spotify.com/user/vittor.marx" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/spotify.svg"/></a>
+  <a href="https://linkedin.com/in/vdallacqua" target="_blank"> <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/linkedin.svg"/> </a> &nbsp
+  <a href="https://instagram.com/kojimawhore" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/instagram.svg"/></a> &nbsp
+  <a href="https://x.com/kojimawhore" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/twitter.svg"/></a> &nbsp
+  <a href="https://open.spotify.com/user/vittor.marx" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/spotify.svg"/></a>
 </div>
 
 
