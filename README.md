@@ -44,9 +44,7 @@
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>  
 </div>
 
-<div style="display: inline_block" align="center"> 
-  <h1>Snake</h1>
-</div> <br>
+##
 
 <div align="center">
   <picture>
