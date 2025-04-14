@@ -3,27 +3,27 @@
 </div>
 
 <div style="display: inline_block" align="center"> 
-  <a href="https://linkedin.com/in/vdallacqua" target="_blank"> <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg"/> </a> &nbsp
-  <a href="https://instagram.com/kojimawhore" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg"/></a> &nbsp
-  <a href="https://x.com/kojimawhore" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter.svg"/></a> &nbsp
-  <a href="https://open.spotify.com/user/vittor.marx" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/spotify.svg"/></a>
+  <a href="http://vittordallacqua.github.io/me" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/vdallacqua" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/kojimawhore" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://x.com/kojimawhore" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://open.spotify.com/user/vittor.marx" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
 </div>
 
 <div style="display: inline_block" align="center"> 
-  <h2>GitHub Stats</h2>
+  <h1>GitHub Stats</h1>
 </div> <br>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vittordallacqua&show_icons=true&theme=github_dark"/>
-  </a>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vittordallacqua&show_icons=true&theme=github_dark"/></a>
   <a href="https://github.com/anuraghazra/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vittordallacqua&layout=compact&langs_count=8&card_width=295&theme=github_dark"/>
   </a>
 </div>
 
 <div style="display: inline_block" align="center"> 
-  <h2>Tech Stack</h2>
+  <h1>Tech Stack</h1>
 </div> <br>
 
 <div style="display: inline_block" align="center"> 
