@@ -44,10 +44,6 @@
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>  
 </div> 
 
-<div style="display: inline_block" align="center"> 
-  <h1>Repos</h1>
-</div>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vittordallacqua/vittordallacqua/output/github-snake-dark.svg" />
