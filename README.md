@@ -1,6 +1,6 @@
-## ☕ Hi, I'm Vittor! Feel free to follow :))
+## Hi, I'm Vittor! Feel free to follow :))
 
-## 📊 GitHub Stats
+## GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vittordallacqua&show_icons=true&theme=midnight-purple" />
 </a>
@@ -8,7 +8,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vittordallacqua&layout=compact&langs_count=8&card_width=295&theme=midnight-purple" />
 </a>
 
-## 💻 Tech Stack
+## Tech Stack
 <div style="display: inline_block"> 
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>  
 </div>
 
-## 🌐 Socials
+## Socials
 
 <div style="display: inline_block"> 
   <a href="https://vittordallacqua.github.io/me/" target="_blank">
