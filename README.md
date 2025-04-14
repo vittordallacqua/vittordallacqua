@@ -1,7 +1,7 @@
 ## Welcome to my profile!
 
 <div style="display: inline_block"> 
-  <p>How to reach me:</p>
+  <p>Feel free to contact me:</p>
   <a href="https://linkedin.com/in/vdallacqua" target="_blank"> <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg"/> </a> &nbsp
   <a href="https://instagram.com/kojimawhore" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg"/></a> &nbsp
   <a href="https://x.com/kojimawhore" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter.svg"/></a> &nbsp
