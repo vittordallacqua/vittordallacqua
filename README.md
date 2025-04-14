@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2Fvittordallacqua&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2Fvittordallacqua&label=VISITORS&labelColor=%23000&countColor=%23000" />
 </div>
 
 <div style="display: inline_block" align="center"> 
