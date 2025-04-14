@@ -7,11 +7,11 @@
 </div>
 
 <div style="display: inline_block" align="center">   
-  <a href="http://vittordallacqua.github.io/me" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-D3D3D3?style=for-the-badge&logo=About.me&logoColor=0e1012"/></a>
-  <a href="https://linkedin.com/in/vdallacqua" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-D3D3D3?style=for-the-badge&logo=linkedin&logoColor=0e1012"/></a>
-  <a href="https://instagram.com/kojimawhore" target="_blank"><img src="https://img.shields.io/badge/Instagram-D3D3D3?style=for-the-badge&logo=instagram&logoColor=0e1012"/></a>
-  <a href="https://x.com/kojimawhore" target="_blank"><img src="https://img.shields.io/badge/X-D3D3D3?style=for-the-badge&logo=x&logoColor=0e1012"/></a>
-  <a href="https://open.spotify.com/user/vittor.marx" target="_blank"><img src="https://img.shields.io/badge/Spotify-D3D3D3?&style=for-the-badge&logo=spotify&logoColor=0e1012"/></a>
+  <a href="http://vittordallacqua.github.io/me" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-333?style=for-the-badge&logo=About.me&logoColor=d3d3d3"/></a>
+  <a href="https://linkedin.com/in/vdallacqua" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-333?style=for-the-badge&logo=linkedin&logoColor=d3d3d3"/></a>
+  <a href="https://instagram.com/kojimawhore" target="_blank"><img src="https://img.shields.io/badge/Instagram-333?style=for-the-badge&logo=instagram&logoColor=d3d3d3"/></a>
+  <a href="https://x.com/kojimawhore" target="_blank"><img src="https://img.shields.io/badge/X-333?style=for-the-badge&logo=x&logoColor=d3d3d3"/></a>
+  <a href="https://open.spotify.com/user/vittor.marx" target="_blank"><img src="https://img.shields.io/badge/Spotify-333?&style=for-the-badge&logo=spotify&logoColor=d3d3d3"/></a>
 </div>
 
 <div style="display: inline_block" align="center"> 
@@ -20,9 +20,9 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vittordallacqua&show_icons=true&theme=github_dark"/></a>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vittordallacqua&show_icons=true&theme=github_dark_dimmed"/></a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vittordallacqua&layout=compact&langs_count=8&card_width=295&theme=github_dark"/>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vittordallacqua&layout=compact&langs_count=8&card_width=295&theme=github_dark_dimmed"/>
   </a>
 </div> 
 
