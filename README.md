@@ -12,7 +12,7 @@
 
 <div style="display: inline_block" align="center"> 
   <h1>GitHub Stats</h1>
-</div> <br>
+</div>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -24,7 +24,7 @@
 
 <div style="display: inline_block" align="center"> 
   <h1>Tech Stack</h1>
-</div> <br>
+</div>
 
 <div style="display: inline_block" align="center"> 
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
