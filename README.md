@@ -1,8 +1,12 @@
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2Fvittordallacqua&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
+</div>
+
 <div style="display: inline_block" align="center"> 
   <h1>Welcome to my profile, feel free to contact me!</h1>
 </div>
 
-<div style="display: inline_block" align="center"> 
+<div style="display: inline_block" align="center">   
   <a href="http://vittordallacqua.github.io/me" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white"/></a>
   <a href="https://linkedin.com/in/vdallacqua" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/kojimawhore" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
