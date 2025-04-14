@@ -1,3 +1,14 @@
+## Welcome to my profile!
+
+<div style="display: inline_block"> 
+  <p>How to reach me:</p>
+  <a href="linkedin.com/in/vdallacqua"> <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg"/> </a> &nbsp
+  <a href="instagram.com/kojimawhore"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg"/></a> &nbsp
+  <a href="x.com/kojimawhore"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter.svg"/></a>
+  <a href="https://open.spotify.com/user/vittor.marx"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/spotify.svg"/></a>
+</div>
+
+
 ## GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vittordallacqua&show_icons=true&theme=material-palenight" />
@@ -20,7 +31,7 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=for-the-badge&logo=Arch-Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>  
