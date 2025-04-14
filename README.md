@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2Fvittordallacqua&label=VISITORS&labelColor=%23000&countColor=%23000" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2Fvittordallacqua&label=VISITORS&labelColor=%d3d3d3&countColor=%d3d3d3" />
 </div>
 
 <div style="display: inline_block" align="center"> 
@@ -7,11 +7,11 @@
 </div>
 
 <div style="display: inline_block" align="center">   
-  <a href="http://vittordallacqua.github.io/me" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-333?style=for-the-badge&logo=About.me&logoColor=d3d3d3"/></a>
-  <a href="https://linkedin.com/in/vdallacqua" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-333?style=for-the-badge&logo=linkedin&logoColor=d3d3d3"/></a>
-  <a href="https://instagram.com/kojimawhore" target="_blank"><img src="https://img.shields.io/badge/Instagram-333?style=for-the-badge&logo=instagram&logoColor=d3d3d3"/></a>
-  <a href="https://x.com/kojimawhore" target="_blank"><img src="https://img.shields.io/badge/X-333?style=for-the-badge&logo=x&logoColor=d3d3d3"/></a>
-  <a href="https://open.spotify.com/user/vittor.marx" target="_blank"><img src="https://img.shields.io/badge/Spotify-333?&style=for-the-badge&logo=spotify&logoColor=d3d3d3"/></a>
+  <a href="http://vittordallacqua.github.io/me" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-333?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/vdallacqua" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-333?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/kojimawhore" target="_blank"><img src="https://img.shields.io/badge/Instagram-333?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://x.com/kojimawhore" target="_blank"><img src="https://img.shields.io/badge/X-333?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://open.spotify.com/user/vittor.marx" target="_blank"><img src="https://img.shields.io/badge/Spotify-333?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
 </div>
 
 <div style="display: inline_block" align="center"> 
