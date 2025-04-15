@@ -1,13 +1,9 @@
-<div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2Fvittordallacqua&label=VISITORS&labelColor=%white&countColor=%white" />
-</div>
-
 <div style="display: inline_block" align="center"> 
   <h1>Welcome to my profile, feel free to follow me!</h1>
 </div>
 
-<div style="display: inline_block" align="center">   
-  <a href="https://github.com/vittordallacqua/vittordallacqua/blob/main/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-44445c?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2Fvittordallacqua&label=VISITORS&labelColor=%white&countColor=%white" />
 </div>
 
 <br>
