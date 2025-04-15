@@ -3,7 +3,7 @@
 </div>
 
 <div style="display: inline_block" align="center"> 
-  <h1>Welcome to my profile, feel free to contact me!</h1>
+  <h1>Welcome to my profile, feel free to follow me!</h1>
 </div>
 
 <div style="display: inline_block" align="center">   
