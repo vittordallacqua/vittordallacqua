@@ -15,7 +15,7 @@
   <a href="https://open.spotify.com/user/vittor.marx" target="_blank"><img src="https://img.shields.io/badge/Spotify-44445c?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
 </div>
 
-##
+<br>
 
 <div style="display: inline_block" align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=for-the-badge&logo=Arch-Linux&logoColor=white"/>
 </div> 
 
-##
+<br>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -48,6 +48,8 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vittordallacqua&layout=compact&langs_count=8&card_width=295&theme=material-palenight"/>
   </a>
 </div> 
+
+<br>
 
 <div align="center">
   <picture>
