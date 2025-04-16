@@ -4,7 +4,6 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&lines=cover+me+in+tall+grass|" /><br>
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2Fvittordallacqua&label=VISITORS&labelColor=%white&countColor=%white" />
 </div>
 
 <br>
