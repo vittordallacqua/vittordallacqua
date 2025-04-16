@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&lines=cover+me+in+tall+grass|" /><br>
-  <img src="https://komarev.com/ghpvc/?username=vittordallacqua&style=for-the-badge&color=6272A4&abbreviated=true" />
+  <img src="https://komarev.com/ghpvc/?username=vittordallacqua&style=for-the-badge&color=3c3b54&abbreviated=true" />
 </div>
 
 <br>
