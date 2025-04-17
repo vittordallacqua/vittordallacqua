@@ -47,7 +47,3 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/vittordallacqua/vittordallacqua/output/github-snake.svg" />
   </picture>
 </div>
-
-<div align="center">
-  <p>ℌ𝔢 𝔴𝔥𝔬 𝔪𝔞𝔨𝔢𝔰 𝔞 𝔟𝔢𝔞𝔰𝔱 𝔬𝔣 𝔥𝔦𝔪𝔰𝔢𝔩𝔣 𝔤𝔢𝔱𝔰 𝔯𝔦𝔡 𝔬𝔣 𝔱𝔥𝔢 𝔭𝔞𝔦𝔫 𝔬𝔣 𝔟𝔢𝔦𝔫𝔤 𝔞 𝔪𝔞𝔫</p>
-</div>
