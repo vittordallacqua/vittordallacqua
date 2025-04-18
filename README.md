@@ -9,6 +9,12 @@
 
 <br>
 
+<div align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=vittor.marx&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=c792ea&bar_color_cover=false" />
+</div>
+
+<br>
+
 <div style="display: inline_block" align="center">
   <img src="https://img.shields.io/badge/C-292d3e?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-292d3e?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -27,12 +33,6 @@
   <img src="https://img.shields.io/badge/Windows-292d3e?style=for-the-badge&logo=windows&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Linux-292d3e?style=for-the-badge&logo=linux&logoColor=white"/>
 </div> 
-
-<br>
-
-<div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=vittor.marx&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=c792ea&bar_color_cover=false" />
-</div>
 
 <br>
 
