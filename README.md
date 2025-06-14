@@ -1,5 +1,5 @@
 <div style="display: inline_block" align="center">
-  <h1>welcome to my profile</h1>
+  <h1>welcome to my profile!</h1>
 </div>
 
 <div align="center">
