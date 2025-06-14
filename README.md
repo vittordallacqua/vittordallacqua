@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=c792ea&center=true&lines=cover+me+in+tall+grass|" /><br>
+  <img src="https://readme-typing-svg.herokuapp.com?color=808080&center=true&lines=cover+me+in+tall+grass|" /><br>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=vittor.marx&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=c792ea&bar_color_cover=false" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=vittor.marx&cover_image=true&theme=novatorem&show_offline=true&background_color=808080&interchange=false&bar_color=808080&bar_color_cover=false" />
 </div>
 
 <br>
 
 <div align="center">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vittordallacqua&show_icons=true&theme=material-palenight&hide_border=true"/></a>
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vittordallacqua&layout=compact&langs_count=8&card_width=295&theme=material-palenight&hide_border=true"/>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vittordallacqua&show_icons=true&theme=github_dark"/></a>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vittordallacqua&layout=compact&langs_count=8&card_width=295&theme=github_dark"/>
   </a>
   
 </div> 
