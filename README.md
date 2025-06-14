@@ -1,7 +1,3 @@
-<div style="display: inline_block" align="center">
-  <h1>Welcome to my profile, feel free to follow me!</h1>
-</div>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=c792ea&center=true&lines=cover+me+in+tall+grass|" /><br>
   <img src="https://komarev.com/ghpvc/?username=vittordallacqua&style=for-the-badge&color=292d3e&abbreviated=true"/>
