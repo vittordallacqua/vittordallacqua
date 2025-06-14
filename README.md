@@ -1,5 +1,5 @@
 <div style="display: inline_block" align="center">
-  <h1>welcome to my profile!</h1>
+  <h1>Welcome to my profile, feel free to follow me!</h1>
 </div>
 
 <div align="center">
@@ -12,6 +12,27 @@
 <div align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=vittor.marx&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=c792ea&bar_color_cover=false" />
 </div>
+
+<br>
+
+<div style="display: inline_block" align="center">
+  <img src="https://img.shields.io/badge/C-292d3e?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-292d3e?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5-292d3e.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-292d3e.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-292d3e.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-292d3e.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-292d3e?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-292d3e?style=for-the-badge&logo=mysql&logoColor=white"/> <br>
+  <img src="https://img.shields.io/badge/Postgres-292d3e.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Shell_Script-292d3e?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/GIT-292d3e?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-292d3e?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/NeoVim-292d3e?.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-292d3e?style=for-the-badge&logo=windows&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Linux-292d3e?style=for-the-badge&logo=linux&logoColor=white"/>
+</div> 
 
 <br>
 
