@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=c792ea&center=true&lines=cover+me+in+tall+grass|" /><br>
-  <img src="https://komarev.com/ghpvc/?username=vittordallacqua&style=for-the-badge&color=292d3e&abbreviated=true"/>
 </div>
 
 <br>
